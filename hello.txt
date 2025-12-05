@@ -1,1 +1,7 @@
 This is my new Git project
+welcome
+welcome
+This is my updated file.
+Another change to test update.
+LOCAL UPDATE SUCCESS
+hello world
