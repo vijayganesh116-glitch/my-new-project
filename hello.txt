@@ -22,3 +22,13 @@ dtdc 7D121702050
 bluedart 76735475832
 hello world
 express subway 14112357690924"openboxwale.com"
+
+
+system test
+User Benchmarks: Game 11%, Desk 68%, Work 11%
+CPU: Intel Core i5-1035G1 - 68.6%
+GPU: Intel UHD G1 - 3.1%
+SSD: Kbg40znv512g TOSHIBA MEMORY 512GB - 152%
+HDD: WD WD10SPZX-00HKTT0 1TB - 65.3%
+RAM: Samsung M471A1K43DB1-CWE Hynix HMA81GS6DJR8N-XN 16GB - 85.1%
+MBD: HP 250 G7 Notebook PC
