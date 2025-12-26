@@ -1,26 +1,6 @@
-This is my new Git project
-welcome
-welcome
-This is my updated file.
-Another change to test update.
-LOCAL UPDATE SUCCESS
-hello world
-who are you
-good morning
-good evening
-good evening
-movie
-songs
-travel
-assemble
-electronics
-Chennai rainy season
-climate change
-yes or no
-above all
 
 hello world
-express subway 14112357690924"openboxwale.com"
+
 
 computer garage (chennai-amjikarai) 7418111071
 
@@ -32,3 +12,4 @@ SSD: Kbg40znv512g TOSHIBA MEMORY 512GB - 152%
 HDD: WD WD10SPZX-00HKTT0 1TB - 65.3%
 RAM: Samsung M471A1K43DB1-CWE Hynix HMA81GS6DJR8N-XN 16GB - 85.1%
 MBD: HP 250 G7 Notebook PC
+
