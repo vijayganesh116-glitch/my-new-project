@@ -12,4 +12,39 @@ SSD: Kbg40znv512g TOSHIBA MEMORY 512GB - 152%
 HDD: WD WD10SPZX-00HKTT0 1TB - 65.3%
 RAM: Samsung M471A1K43DB1-CWE Hynix HMA81GS6DJR8N-XN 16GB - 85.1%
 MBD: HP 250 G7 Notebook PC
+OS Name	Microsoft Windows 11 Pro
+Version	10.0.26200 Build 26200
+Other OS Description 	Not Available
 
+
+OS Manufacturer	Microsoft Corporation
+System Name	ADMIN
+System Manufacturer	Dynabook Inc.
+System Model	PORTEGE X40-J
+System Type	x64-based PC
+System SKU	PPH13G
+Processor	11th Gen Intel(R) Core(TM) i7-1185G7 @ 3.00GHz, 2995 Mhz, 4 Core(s), 8 Logical Processor(s)
+BIOS Version/Date	Dynabook Inc. Version 8.60, 7/19/2023
+SMBIOS Version	3.3
+Embedded Controller Version	5.20
+BIOS Mode	UEFI
+BaseBoard Manufacturer	Dynabook Inc.
+BaseBoard Product	A010D/0000
+BaseBoard Version	Version A0
+Platform Role	Mobile
+Secure Boot State	On
+PCR7 Configuration	Elevation Required to View
+Windows Directory	C:\WINDOWS
+System Directory	C:\WINDOWS\system32
+Boot Device	\Device\HarddiskVolume1
+Locale	United States
+Hardware Abstraction Layer	Version = "10.0.26100.1"
+User Name	Admin\WELCOME
+Time Zone	India Standard Time
+Installed Physical Memory (RAM)	16.0 GB
+Total Physical Memory	15.6 GB
+Available Physical Memory	8.95 GB
+Total Virtual Memory	18.5 GB
+Available Virtual Memory	10.3 GB
+Page File Space	2.88 GB
+Page File	C:\pagefile.sys
